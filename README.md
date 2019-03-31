@@ -1,2 +1,3 @@
-# Python-Musings
-a collection of notes and approach to problems in Python
+# Musings on being a better Programmer
+a collection of notes,approach and code in PL
+ 
